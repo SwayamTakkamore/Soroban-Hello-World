@@ -1,0 +1,1 @@
+/mnt/d/Sessions/stellar\ ragnarok\ 2025/Day4/soroban-hello-world/target/wasm32v1-none/release/libhello_world.rlib: /mnt/d/Sessions/stellar\ ragnarok\ 2025/Day4/soroban-hello-world/contracts/hello-world/src/lib.rs /mnt/d/Sessions/stellar\ ragnarok\ 2025/Day4/soroban-hello-world/contracts/hello-world/src/test.rs
